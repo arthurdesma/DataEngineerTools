@@ -59,6 +59,7 @@ Twisted = "*"
 Werkzeug = "*"
 WTForms = "*"
 jupyter = "*"
+elasticsearch = "==6.8.2"
 
 [dev-packages]
 
